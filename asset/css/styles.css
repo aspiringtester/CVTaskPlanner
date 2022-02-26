@@ -4,10 +4,11 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgba(255, 235, 205, 0.5);
+    background-color: tomato;
 }
 h1 {
     text-align: center;
+    color: aliceblue;
 }
 .badge {
     text-transform: uppercase;
@@ -77,4 +78,16 @@ button:hover {
     font-weight: 300;
     letter-spacing: 0.12rem;
     font-family: monospace;
+}
+/* modal body */
+.modal-content {
+    background-color: rgb(17, 17, 1);
+    color: aliceblue;
+    
+}
+
+.taskDiv {
+    background-color: rgb(17, 17, 1);
+    color: aliceblue;
+    
 }
