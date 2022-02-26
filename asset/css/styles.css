@@ -6,7 +6,7 @@
 body {
     background-color: tomato;
 }
-h1 {
+h1, h3 {
     text-align: center;
     color: aliceblue;
 }
@@ -90,4 +90,13 @@ button:hover {
     background-color: rgb(17, 17, 1);
     color: aliceblue;
     
+}
+
+footer {
+    color: rgb(199, 201, 202);
+    
+}
+
+#instruction {
+    color: aliceblue;
 }
